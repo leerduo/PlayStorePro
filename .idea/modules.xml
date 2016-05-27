@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PlayStorePro.iml" filepath="$PROJECT_DIR$/PlayStorePro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gradledemo/gradledemo.iml" filepath="$PROJECT_DIR$/gradledemo/gradledemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retrofit&amp;rxandroiddemo/retrofit&amp;rxandroiddemo.iml" filepath="$PROJECT_DIR$/retrofit&amp;rxandroiddemo/retrofit&amp;rxandroiddemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retrolambdademo/retrolambdademo.iml" filepath="$PROJECT_DIR$/retrolambdademo/retrolambdademo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxandroiddemo/rxandroiddemo.iml" filepath="$PROJECT_DIR$/rxandroiddemo/rxandroiddemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxjavademo/rxjavademo.iml" filepath="$PROJECT_DIR$/rxjavademo/rxjavademo.iml" />
+    </modules>
+  </component>
+</project>
